@@ -22,18 +22,3 @@ def load_data(data_path):
     print("Data succesfully loaded!")
 
     return  X, y
-
-
-if __name__ == '__main__':
-    # create train, validation and test sets
-
-
-    # build the cnn 
-
-    # compile the network
-
-    # train the cnn
-
-    # evaluate the cnn on the test set
-
-    # make a prediction on a sample
