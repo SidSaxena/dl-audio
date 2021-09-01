@@ -10,3 +10,6 @@ Implement Deep Learning for Audio Processing and Music Genre Classifier using Sc
 * Recurrent Neural Networks
 	* Long Short Term Memory Networks
 * Solving Overfitting
+
+
+*The Marsyas GTZAN Dataset is no longer available on the original website. A mirror can be found on Kaggle.*
